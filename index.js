@@ -193,7 +193,7 @@ autoketik = false
 autoregister = setting.user_register
 
 img = setting.img
-baper = "FOLLOW IG ITSMEALWI_'
+baper = "FOLLOW IG ITSMEALWI_"
 apiku = 'https://www.instagram.com/itsmealwi_'
 gc_wa_lu = 'https://chat.whatsapp.com/DQ4hlO3ap3WIPoTNKChfK5' //klo gk punya gc wa gk usah di ganti 👍
 targetpc = setting.ownerNumberr
