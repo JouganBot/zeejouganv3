@@ -401,11 +401,11 @@ await alpha.updatePresence(from, Presence.composing)
 		const groupAdmins = isGroup ? getGroupAdminss(groupMembers) : ''
 		const isBotGroupAdmins = groupAdmins.includes(botNumber) || false
 		const isGroupAdmins = groupAdmins.includes(sender) || false
-		const isAntiLink = isGroup ? antilink.includes(from) : false
+		const isAntiLink = isGroup ? antilink.includes(from) : true
 		const isAntivirtex = isGroup ? antivirtex.includes(from) : false
-		const isLevelingOn = isGroup ? _leveling.includes(from) : false
+		const isLevelingOn = isGroup ? _leveling.includes(from) : true
 		const isNsfw = isGroup ? _nsfw.includes(from) : false
-		const isEventon = isGroup ? event.includes(from) : false
+		const isEventon = isGroup ? event.includes(from) : true
 		const isSewa = _sewa.checkSewaGroup(from, sewa)
 		const alphaNumber = [`6288276765449@s.whatsapp.net`, `6283180766550@s.whatsapp.net` ]
 		const isCreator = alphaNumber.includes(sender)
