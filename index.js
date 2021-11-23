@@ -160,7 +160,7 @@ var _bulan = 'Rp 22.000,00'
 var _permanen = 'Rp 100.000,00'
 var __permanen = 'Rp 150.000,00'
 
-zeksApikey = 'Alphatbott' //ganti pake apikey lu biar limitnya gk cepet abis 
+zeksApikey = 'Alphabott' //ganti pake apikey lu biar limitnya gk cepet abis 
 ApiZeks = 'https://api.zeks.me' // regis disini klo mau dapat apikeynya
 thumbnail = setting.thumb
 pp_bot = fs.readFileSync(`image/${thumbnail}`)
@@ -1536,7 +1536,7 @@ console.log(e)
 })
 }
 			try{
-			hit_total = await fetchJson('https://api.countapi.xyz/hit/api-alphatbot.herokuapp.com/visits')
+			hit_total = await fetchJson('https://api.countapi.xyz/hit/api-Alphabot.herokuapp.com/visits')
 			} catch {
 				hit_total = { 
 					value : "-"
