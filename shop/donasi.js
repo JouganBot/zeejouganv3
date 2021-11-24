@@ -5,9 +5,9 @@ return `DONASI BISA VIA BANK / E-MONEY
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0882-7676-5449
 2. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0882-7676-5449
 	
 	
 Semuanya atas nama Mh******i
