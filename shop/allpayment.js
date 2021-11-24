@@ -10,7 +10,7 @@ return `PAYMENT BY ITSMEALWI_
 3. DANA
 	ㅁ 0882-7676-5449
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama I*******i
 
 *📲 PULSA*
 
