@@ -10,7 +10,7 @@ return `DONASI BISA VIA BANK / E-MONEY
 	ㅁ 0882-7676-5449
 	
 	
-Semuanya atas namaIi*******i
+Semuanya atas nama I*******i
 `
 	}
 
