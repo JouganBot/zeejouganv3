@@ -6545,7 +6545,7 @@ if (budy.includes(`alwi`)) {
                      if (budy.includes(`@6282137114887`)) {
                   reply(`ada apa lu ngetag dia?`)
                   }
-                  if (budy.includes(`@628876765449`)) {
+                  if (budy.includes(`@6288276765449`)) {
                   reply(`Jangan Tag Dia Bro Lagi Sibuk` )
                   }
                   if (budy.includes(`assalamualaikum`)) {
