@@ -6557,6 +6557,9 @@ if (budy.includes(`alwi`)) {
                   if (budy.includes(`hai`)) {
                   reply(`Hai Juga ${pushname}`)
                   }
+                   if (budy.includes(`ASSALAMUALAIKUM`)) {
+                  reply(`Waalaikumsalam Kakak ${pushname}😚😚`)
+                  }
 
 
 		if (budy.includes(`Hallo`)) {
