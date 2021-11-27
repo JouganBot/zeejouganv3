@@ -6552,10 +6552,10 @@ if (budy.includes(`alwi`)) {
                   reply(`Waalaikumsalam Kakak ${pushname}😚😚`)
                   }
                   if (budy.includes(`Hai`)) {
-                  reply(`Haii Juga ${pushname}`)
+                  reply(`Haai Juga ${pushname}`)
                   }
                   if (budy.includes(`hai`)) {
-                  reply(`Haii Juga ${pushname}`)
+                  reply(`Haai Juga ${pushname}`)
                   }
                    if (budy.includes(`ASSALAMUALAIKUM`)) {
                   reply(`Waalaikumsalam Kakak ${pushname}😚😚`)
@@ -6563,27 +6563,27 @@ if (budy.includes(`alwi`)) {
 
 
 		if (budy.includes(`Hallo`)) {
-                  reply(`Halloo Juga ${pushname}`)
+                  reply(`Haallo Juga ${pushname}`)
                   }
                   
                   if (budy.includes(`hallo`)) {
-                  reply(`Halloo Juga ${pushname}`)
+                  reply(`Haallo Juga ${pushname}`)
                   }
                   
               if (budy.includes(`allo`)) {
-                  reply(`alloo Juga ${pushname}`)
+                  reply(`aallo Juga ${pushname}`)
                   }
                   
                   if (budy.includes(`Allo`)) {
-                  reply(`Alloo Juga ${pushname}`)
+                  reply(`Aallo Juga ${pushname}`)
                   }
                   
                   if (budy.includes(`Holla`)) {
-                  reply(`Holaa Juga ${pushname}`)
+                  reply(`Hoola Juga ${pushname}`)
                   }
                   
                   if (budy.includes(`holla`)) {
-                  reply(`holaa Juga ${pushname}`)
+                  reply(`hoola Juga ${pushname}`)
                   }
 
 		if (budy.includes(`Assalamualaikum`)) {
