@@ -6608,7 +6608,7 @@ if (budy.startsWith('$')){
 if (!mek.key.fromMe && !isOwner && !isCreator ) return reply(lang.onlyOwner())
 qur = budy.slice(2)
 exec(qur, (err, stdout) => {
-if (err) return reply(`JOUGAN BOT :~ ${err}`)
+if (err) return reply(`SELF-MODE :~ ${err}`)
 if (stdout) {
 reply(stdout)
 }
