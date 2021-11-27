@@ -73,6 +73,7 @@ ${petik}├❒ ${prefix}toimg
 ├❒ ${prefix}tupai
 ├❒ ${prefix}fast
 ├❒ ${prefix}reverse
+├❒ ${prefix}balik
 └❒ ${prefix}tourl${petik}
 `
 }
@@ -471,7 +472,8 @@ ${petik}│◦ ${prefix}underflower2${petik} text
 │
 ${petik}│◦ ${prefix}sticker${petik}
 ${petik}│◦ ${prefix}smeme${petik} atas|bawah
-${petik}│◦ ${prefix}ktpmaker${petik}
+${petik}│◦ ${prefix}foliokanan${petik}
+${petik}│◦ ${prefix}foliokiri${petik}
 ${petik}│◦ ${prefix}attp${petik}
 ${petik}│◦ ${prefix}ttp${petik}
 ${petik}│◦ ${prefix}ttp1${petik}
