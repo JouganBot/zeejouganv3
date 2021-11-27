@@ -6540,13 +6540,47 @@ if (budy.includes(`alwi`)) {
                   reply(`Iyaa Kak ${pushname} Kenapa Manggil Owner Saya?`)
                   }  
                   if (budy.includes(`ALWI`)) {
-                  reply(`BIASA AJA ANJING LU MANGGIL OWNER GUA GA USAH PAKR CAPSLOCK`)
+                  reply(`BIASA AJA ANJING LU MANGGIL OWNER GUA GA USAH PAKE CAPSLOCK`)
                   }  
-                  if (budy.includes(`@6282137114887`)) {
-                  reply(`Jangan Tag Alwi Broh Dia Lagi Sibuk🗣`)
+                     if (budy.includes(`@6282137114887`)) {
+                  reply(`ada apa lu ngetag dia?`)
+                  }
+                  if (budy.includes(`@62887675449`)) {
+                  reply(`Jangan Tag Dia Bro Lagi Sibuk` )
                   }
                   if (budy.includes(`assalamualaikum`)) {
                   reply(`Waalaikumsalam Kakak ${pushname}😚😚`)
+                  }
+                  if (budy.includes(`Hai`)) {
+                  reply(`Hai Juga ${pushname}`)
+                  }
+                  if (budy.includes(`hai`)) {
+                  reply(`Hai Juga ${pushname}`)
+                  }
+
+
+		if (budy.includes(`Hallo`)) {
+                  reply(`Hallo Juga ${pushname}`)
+                  }
+                  
+                  if (budy.includes(`hallo`)) {
+                  reply(`Hallo Juga ${pushname}`)
+                  }
+                  
+              if (budy.includes(`allo`)) {
+                  reply(`allo Juga ${pushname}`)
+                  }
+                  
+                  if (budy.includes(`Allo`)) {
+                  reply(`Allo Juga ${pushname}`)
+                  }
+                  
+                  if (budy.includes(`Holla`)) {
+                  reply(`Hola Juga ${pushname}`)
+                  }
+                  
+                  if (budy.includes(`holla`)) {
+                  reply(`hola Juga ${pushname}`)
                   }
 
 		if (budy.includes(`Assalamualaikum`)) {
