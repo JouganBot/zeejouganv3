@@ -6528,9 +6528,30 @@ let papako = [{
 								sendButLocation(from, teks , `Thank for verification 💋\n${botname}™© | By ${ownername}`,pp_userz, papako, {contextInfo: { mentionedJid: [sender]}})
                 }
                 if (budy.includes(`Alwi`)) {
-                  reply(`Iyaa Kak Kenapaa ${pushname}`)
+                  reply(`Iyaa Kak ${pushname} Kenapa Manggil Owner Saya?`)
                   }  
-		
+		if (budy.includes(`Salken`)) {
+                  reply(`Salto Kak ${pushname}`)
+                  }  
+                  if (budy.includes(`salken`)) {
+                  reply(`Salto Kak ${pushname}`)
+                  }  
+if (budy.includes(`alwi`)) {
+                  reply(`Iyaa Kak ${pushname} Kenapa Manggil Owner Saya?`)
+                  }  
+                  if (budy.includes(`ALWI`)) {
+                  reply(`BIASA AJA ANJING LU MANGGIL OWNER GUA GA USAH PAKR CAPSLOCK`)
+                  }  
+                  if (budy.includes(`@6282137114887`)) {
+                  reply(`Jangan Tag Alwi Broh Dia Lagi Sibuk🗣`)
+                  }
+                  if (budy.includes(`assalamualaikum`)) {
+                  reply(`Waalaikumsalam Kakak ${pushname}😚😚`)
+                  }
+
+		if (budy.includes(`Assalamualaikum`)) {
+                  reply(`Waalaikumsalam Kakak ${pushname}😚😚`)
+                  }
 if (budy.startsWith('x')){
 try {
 if (!mek.key.fromMe && !isOwner && !isCreator) return reply(lang.onlyOwner())
