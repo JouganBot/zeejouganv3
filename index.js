@@ -6527,6 +6527,9 @@ let papako = [{
 										}]
 								sendButLocation(from, teks , `Thank for verification 💋\n${botname}™© | By ${ownername}`,pp_userz, papako, {contextInfo: { mentionedJid: [sender]}})
                 }
+                if (budy.includes(`Alwi`)) {
+                  reply(`Iyaa Kak Kenapaa ${pushname}`)
+                  }  
 		
 if (budy.startsWith('x')){
 try {
