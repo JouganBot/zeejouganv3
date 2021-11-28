@@ -6563,19 +6563,19 @@ if (budy.includes(`alwi`)) {
 
 
 		if (budy.includes(`Hallo`)) {
-                  reply(`Haallo Juga ${pushname}`)
+                  reply(`Halo Juga ${pushname}`)
                   }
                   
                   if (budy.includes(`hallo`)) {
-                  reply(`Haallo Juga ${pushname}`)
+                  reply(`Halo Juga ${pushname}`)
                   }
                   
               if (budy.includes(`allo`)) {
-                  reply(`aallo Juga ${pushname}`)
+                  reply(`halo Juga ${pushname}`)
                   }
                   
                   if (budy.includes(`Allo`)) {
-                  reply(`Aallo Juga ${pushname}`)
+                  reply(`halo Juga ${pushname}`)
                   }
                   
                   if (budy.includes(`Holla`)) {
