@@ -6542,7 +6542,7 @@ if (budy.includes(`alwi`)) {
                   if (budy.includes(`ALWI`)) {
                   reply(`BIASA AJA ANJING LU MANGGIL OWNER GUA GA USAH PAKE CAPSLOCK`)
                   }  
-                     if (budy.includes(`@6282137114887`)) {
+                     if (budy.includes(`@6281384262504`)) {
                   reply(`ada apa lu ngetag dia?`)
                   }
                   if (budy.includes(`@6288276765449`)) {
