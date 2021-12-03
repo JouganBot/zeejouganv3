@@ -3328,8 +3328,8 @@ case 'setexif':
 		            encmedia_ = JSON.parse(JSON.stringify(mek).replace('quotedM','m')).message.extendedTextMessage.contextInfo
 				    media_ = await alpha.downloadAndSaveMediaMessage(encmedia_)
 		            anu = args.join(' ').split('|')
-		            satu = anu[0] !== '' ? anu[0] : `follow ig`
-		            dua = typeof anu[1] !== 'undefined' ? anu[1] : `@itsmealwi`
+		            satu = anu[0] !== '' ? anu[0] : `SUBSCRIBE`
+		            dua = typeof anu[1] !== 'undefined' ? anu[1] : `ZEEONE OFC`
 		            require('./lib/fetcher.js').createExif(satu, dua)
 					require('./lib/fetcher.js').modStick(media_ , alpha, mek, from)
 					break
